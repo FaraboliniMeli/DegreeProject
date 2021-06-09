@@ -1,0 +1,8 @@
+br/com/marcello/DegreeProject/dto/DegreeDto.class
+br/com/marcello/DegreeProject/controller/DegreeController.class
+br/com/marcello/DegreeProject/entities/Student.class
+br/com/marcello/DegreeProject/entities/Degree.class
+br/com/marcello/DegreeProject/utils/DegreeUtils.class
+br/com/marcello/DegreeProject/utils/DegreeUtilsImpl.class
+br/com/marcello/DegreeProject/dto/StudentDto.class
+br/com/marcello/DegreeProject/DegreeProjectApplication.class
